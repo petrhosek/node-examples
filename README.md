@@ -1,3 +1,3 @@
 # Node.js examples
 
-Verious useful [Node.js](http://nodejs.org/) examples
+Various useful [Node.js](http://nodejs.org/) examples
